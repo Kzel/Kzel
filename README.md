@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kzel
-- 👀 I’m interested in Gaming, IoT
+- 👀 I’m interested in Gaming, IoT ,Deep learning
 - 🌱 I’m currently learning electronic information engineering
 
 <!---
