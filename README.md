@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kzel
 - 👀 I’m interested in Gaming, IoT ,Deep learning
-- 🌱 I’m currently learning electronic information engineering
+- 🌱 I’m currently learning in electronic information engineering
 
 <!---
 Kzel/Kzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
