@@ -6,8 +6,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Kzel)](https://github.com/Kzel)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kzel)
 # Languages and Tools:
-<code><img width="10%" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/U/ubuntu-linux-logo-A8280F4D05-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
 <br />
 <code><img width="10%" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
