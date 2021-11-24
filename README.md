@@ -9,12 +9,18 @@
 <code><img width="10%" src="https://seeklogo.com/images/U/ubuntu-linux-logo-A8280F4D05-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
+<br />
 <code><img width="10%" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
-<br />
 <code><img width="10%" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
+<br />
 <code><img width="10%" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png"></code>
+<code><img width="10%" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
+<br />
+<code><img width="10%" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png"></code>
+<code><img width="10%" src="https://i.pinimg.com/474x/15/7c/29/157c29f55d40b70d8cb5f4e88437f803.jpg"></code>
+<code><img width="10%" src="https://taiwebs.com/upload/icons/keysight-advanced-design-system-ads220-220.jpg"></code>
 # Markdown
 [![Nambers's github stats](https://github-readme-stats.vercel.app/api?username=Kzel&show_icons=true)](https://github.com/Kzel/github-readme-stats)
 
