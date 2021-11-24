@@ -9,9 +9,10 @@
 <code><img width="10%" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/U/ubuntu-linux-logo-A8280F4D05-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
+<br />
 <code><img width="10%" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png"></code>
-<br />
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
 # Markdown
 [![Nambers's github stats](https://github-readme-stats.vercel.app/api?username=Kzel&show_icons=true)](https://github.com/Kzel/github-readme-stats)
 
