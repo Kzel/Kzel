@@ -13,9 +13,9 @@
 <code><img width="10%" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png"></code>
 <br />
 # Markdown
-[![Nambers's github stats](https://github-readme-stats.vercel.app/api?username=Nambers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nambers's github stats](https://github-readme-stats.vercel.app/api?username=Kzel&show_icons=true)](https://github.com/Kzel/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nambers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nambers&layout=compact)](https://github.com/Kzel/github-readme-stats)
 <!---
 Kzel/Kzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
