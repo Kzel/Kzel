@@ -18,8 +18,6 @@
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png"></code>
 <code><img width="10%" src="https://i.pinimg.com/474x/15/7c/29/157c29f55d40b70d8cb5f4e88437f803.jpg"></code>
-<code><img width="10%" src="https://taiwebs.com/upload/icons/keysight-advanced-design-system-ads220-220.jpg"></code>
-<br />
 <code><img width="10%" src="https://gitlab.com/uploads/-/system/group/avatar/6593371/kicadlogo.png"></code>
 # Markdown
 [![Nambers's github stats](https://github-readme-stats.vercel.app/api?username=Kzel&show_icons=true)](https://github.com/Kzel/github-readme-stats)
