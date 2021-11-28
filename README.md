@@ -1,4 +1,4 @@
-# Hello, this is [Tryffin] (https://github.com/Kzel)！<!---<img src="https://z3.ax1x.com/2021/11/25/oF3vJf.jpg" width="30px"> --->
+# Hello, this is [Yining BAO] (https://github.com/Kzel)！
 - I’m interested in Gaming🎮, IoT📶 ,Deep learning📚, electronic⚡ etc.
 - I’m currently learning in the filed electronic and information engineering💻 at Polytech Sorbonne of Sorbonne University
 - Please contact me if you have any questions
