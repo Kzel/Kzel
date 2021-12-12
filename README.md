@@ -1,5 +1,5 @@
 # Hello, this is [Yining BAO](https://github.com/Kzel)！
-- I’m interested in Gaming🎮, IoT📶 ,Deep learning📚, electronic⚡ etc.
+- I’m interested in Gaming🎮, IoT📶 ,Deep learning📚, Electronic⚡, FPGA🖥, Embedded System💻etc.
 - I’m currently learning in the field electronic and information engineering💻 at Polytech Sorbonne of Sorbonne University
 - Please contact me if you have any questions
 - [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baoyining@outlook.com)](mailto:baoyining@outlook.com)
