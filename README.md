@@ -1,6 +1,7 @@
 # Hello, this is [Yining BAO](https://github.com/Kzel)！
 - I’m interested in IoT📶 ,Deep learning📚, Electronic⚡, FPGA🖥, Embedded System💻 and Gaming🎮etc.
 - I’m currently learning in the field Electronic, Information Engineering💻 and Embedded Systems at Polytech Sorbonne of Sorbonne University
+- I'm currently as an intern in ANSYS France <code><img width="5%" src="https://seeklogo.com/images/A/ansys-logo-D4A6D95245-seeklogo.com.png"></code> of GUI automated test
 - Please contact me if you have any questions
 - [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baoyining@outlook.com)](mailto:baoyining@outlook.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Kzel)](https://github.com/Kzel)
