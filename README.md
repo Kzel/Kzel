@@ -6,7 +6,7 @@
 - [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baoyining@outlook.com)](mailto:baoyining12@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Kzel)](https://github.com/Kzel)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kzel)
-[![site](https://img.shields.io/badge/Site-Tryffin-brightgreen)](https://kzel.github.io/)
+[![site](https://img.shields.io/badge/Site-Tryffin-brightgreen)](https://www.tryffin.tk/)
 # OS, Languages and Tools:
 <code><img width="10%" src="https://seeklogo.com/images/M/manjaro-logo-CF438BDF99-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/U/ubuntu-linux-logo-A8280F4D05-seeklogo.com.png"></code>
