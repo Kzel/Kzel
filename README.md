@@ -2,7 +2,7 @@
 - I’m interested in IoT📶 ,Deep learning📚, Electronic⚡, FPGA🖥, Embedded System📱and Gaming🎮etc.
 - I’m graduated from [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) of [Sorbonne University](https://www.sorbonne-universite.fr/) <code><img width="15%" src="https://www.polytech.sorbonne-universite.fr/sites/default/files/2019-06/poly-sor-01.svg"></code>
 - I finished my internship with [ANSYS France](https://www.ansys.com/) <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/2560px-Ansys_logo_%282019%29.svg.png"></code> as a R&D Verification Assistant Engineer
-- Currently, I work as a Field Application Enginner of [ES France](https://www.es-france.com/) <code><img width="10%" src="https://www.es-france.com/img/equipementscientifique-logo-1513785650.jpg"></code>
+- Currently, I work as a Field Application Engineer of [ES France](https://www.es-france.com/) <code><img width="10%" src="https://www.es-france.com/img/equipementscientifique-logo-1513785650.jpg"></code>
 - Please contact me if you have any questions
 - [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=mail&logoColor=white&link=mailto:tryffin@tryffin.eu.org)](mailto:tryffin@tryffin.eu.org)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tryffin)](https://github.com/Tryffin)
