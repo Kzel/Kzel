@@ -6,7 +6,7 @@
 - Please contact me if you have any questions
 - [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=mail&logoColor=white&link=mailto:tryffin@tryffin.eu.org)](mailto:tryffin@tryffin.eu.org)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tryffin)](https://github.com/Tryffin)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tryffin)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kzel)
 - My personal site[![site](https://img.shields.io/badge/Site-Tryffin-brightgreen)](https://tryffin.eu.org/)
 # OS, Languages and Tools:
 <code><img width="10%" src="https://seeklogo.com/images/M/manjaro-logo-CF438BDF99-seeklogo.com.png"></code>
