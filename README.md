@@ -23,7 +23,7 @@
 <code><img width="10%" src="https://i.pinimg.com/474x/15/7c/29/157c29f55d40b70d8cb5f4e88437f803.jpg"></code>
 <code><img width="10%" src="https://gitlab.com/uploads/-/system/group/avatar/6593371/kicadlogo.png"></code>
 # Stats
-[![Tryffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryffin&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tryffin 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryffin&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryffin&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
