@@ -8,6 +8,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tryffin)](https://github.com/Tryffin)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTryffin&labelColor=%232ccce4&countColor=%23555555&style=plastic&labelStyle=none)
 - My personal site[![site](https://img.shields.io/badge/Site-Tryffin-brightgreen)](https://tryffin.eu.org/)
+{::comment}
 # OS, Languages and Tools:
 <code><img width="10%" src="https://seeklogo.com/images/M/manjaro-logo-CF438BDF99-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/U/ubuntu-linux-logo-A8280F4D05-seeklogo.com.png"></code>
@@ -22,6 +23,7 @@
 <code><img width="10%" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png"></code>
 <code><img width="10%" src="https://i.pinimg.com/474x/15/7c/29/157c29f55d40b70d8cb5f4e88437f803.jpg"></code>
 <code><img width="10%" src="https://gitlab.com/uploads/-/system/group/avatar/6593371/kicadlogo.png"></code>
+{:/comment}
 # Stats
 [![Tryffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryffin&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
