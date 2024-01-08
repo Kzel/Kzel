@@ -5,7 +5,7 @@
 - Currently, I work as a Field Application Engineer of [ES France](https://www.es-france.com/) <code><img width="10%" src="https://www.es-france.com/img/equipementscientifique-logo-1513785650.jpg"></code>
 - Please feel free to contact me if you have any questions
 - My homepage [![Homepage - Tryffin](https://img.shields.io/badge/Homepage-Tryffin-3c00f0?logo=wordpress&logoColor=%2321759B)](https://tryffin.eu.org) [![Github - Tryffin](https://img.shields.io/badge/Github-Tryffin-2ea44f?logo=Github&logoColor=%23181717)](https://github.com/Tryffin)
-- My mail [![Mail - Tryffin](https://img.shields.io/badge/Mail-Tryffin-008cff?logo=gmail&logoColor=%23EA4335)](https://github.com/Tryffin) 
+- My mail [![Mail - Tryffin](https://img.shields.io/badge/Mail-Tryffin-008cff?logo=gmail&logoColor=%23EA4335)](tryffin@tryffin.eu.org) 
 <!---
 # OS, Languages and Tools:
 <code><img width="10%" src="https://seeklogo.com/images/M/manjaro-logo-CF438BDF99-seeklogo.com.png"></code>
