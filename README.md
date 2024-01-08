@@ -6,7 +6,7 @@
 - Please contact me if you have any questions
 -![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTryffin&label=Visitor&countColor=%232ccce4)
 - My personal site[![Homepage - Tryffin](https://img.shields.io/badge/Homepage-Tryffin-3c00f0?logo=wordpress&logoColor=%2321759B)](https://tryffin.eu.org)
--Mail[![Mail - Tryffin](https://img.shields.io/badge/Mail-Tryffin-008cff?logo=gmail&logoColor=%23EA4335)](https://github.com/Tryffin) [![Github - Tryffin](https://img.shields.io/badge/Github-Tryffin-2ea44f?logo=Github&logoColor=%23181717)](https://github.com/Tryffin)
+- Mail[![Mail - Tryffin](https://img.shields.io/badge/Mail-Tryffin-008cff?logo=gmail&logoColor=%23EA4335)](https://github.com/Tryffin) [![Github - Tryffin](https://img.shields.io/badge/Github-Tryffin-2ea44f?logo=Github&logoColor=%23181717)](https://github.com/Tryffin)
 <!---
 # OS, Languages and Tools:
 <code><img width="10%" src="https://seeklogo.com/images/M/manjaro-logo-CF438BDF99-seeklogo.com.png"></code>
